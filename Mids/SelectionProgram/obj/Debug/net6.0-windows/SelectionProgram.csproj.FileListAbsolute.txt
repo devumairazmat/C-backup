@@ -1,0 +1,7 @@
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.Form1.resources
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\SelectionProgram\obj\Debug\net6.0-windows\SelectionProgram.csproj.CoreCompileInputs.cache

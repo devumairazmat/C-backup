@@ -1,0 +1,17 @@
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\bin\Debug\net6.0-windows\WinFormsApp class 29.exe
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\bin\Debug\net6.0-windows\WinFormsApp class 29.deps.json
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\bin\Debug\net6.0-windows\WinFormsApp class 29.runtimeconfig.json
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\bin\Debug\net6.0-windows\WinFormsApp class 29.dll
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\bin\Debug\net6.0-windows\WinFormsApp class 29.pdb
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp_class_29.Form1.resources
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.dll
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\refint\WinFormsApp class 29.dll
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.pdb
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\WinFormsApp class 29.genruntimeconfig.cache
+C:\Users\IRFAN\source\repos\WinFormsApp class 29\obj\Debug\net6.0-windows\ref\WinFormsApp class 29.dll

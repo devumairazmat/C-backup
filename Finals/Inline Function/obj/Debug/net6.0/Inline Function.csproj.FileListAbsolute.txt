@@ -1,0 +1,15 @@
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Finals\Inline Function\bin\Debug\net6.0\Inline Function.exe
+C:\Users\IRFAN\source\repos\Finals\Inline Function\bin\Debug\net6.0\Inline Function.deps.json
+C:\Users\IRFAN\source\repos\Finals\Inline Function\bin\Debug\net6.0\Inline Function.runtimeconfig.json
+C:\Users\IRFAN\source\repos\Finals\Inline Function\bin\Debug\net6.0\Inline Function.dll
+C:\Users\IRFAN\source\repos\Finals\Inline Function\bin\Debug\net6.0\Inline Function.pdb
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.dll
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\refint\Inline Function.dll
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.pdb
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\Inline Function.genruntimeconfig.cache
+C:\Users\IRFAN\source\repos\Finals\Inline Function\obj\Debug\net6.0\ref\Inline Function.dll

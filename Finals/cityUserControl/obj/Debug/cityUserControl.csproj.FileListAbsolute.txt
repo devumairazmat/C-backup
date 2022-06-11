@@ -1,0 +1,16 @@
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\cityUserControl.exe.config
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\cityUserControl.exe
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\cityUserControl.pdb
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\User Control.dll
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\User Control.pdb
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.Form1.resources
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.Properties.Resources.resources
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.csproj.CopyComplete
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.exe
+C:\Users\IRFAN\source\repos\Finals\cityUserControl\obj\Debug\cityUserControl.pdb

@@ -1,0 +1,15 @@
+C:\Users\IRFAN\source\repos\Finals\Enumeration\bin\Debug\net6.0\Enumeration.exe
+C:\Users\IRFAN\source\repos\Finals\Enumeration\bin\Debug\net6.0\Enumeration.deps.json
+C:\Users\IRFAN\source\repos\Finals\Enumeration\bin\Debug\net6.0\Enumeration.runtimeconfig.json
+C:\Users\IRFAN\source\repos\Finals\Enumeration\bin\Debug\net6.0\Enumeration.dll
+C:\Users\IRFAN\source\repos\Finals\Enumeration\bin\Debug\net6.0\Enumeration.pdb
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.dll
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\refint\Enumeration.dll
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.pdb
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\Enumeration.genruntimeconfig.cache
+C:\Users\IRFAN\source\repos\Finals\Enumeration\obj\Debug\net6.0\ref\Enumeration.dll

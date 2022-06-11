@@ -1,0 +1,17 @@
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\bin\Debug\net6.0\ConsoleApp3 (Excel Sheet).exe
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\bin\Debug\net6.0\ConsoleApp3 (Excel Sheet).deps.json
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\bin\Debug\net6.0\ConsoleApp3 (Excel Sheet).runtimeconfig.json
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\bin\Debug\net6.0\ConsoleApp3 (Excel Sheet).dll
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\bin\Debug\net6.0\ConsoleApp3 (Excel Sheet).pdb
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).csproj.ResolveComReference.cache
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).dll
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\refint\ConsoleApp3 (Excel Sheet).dll
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).pdb
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ConsoleApp3 (Excel Sheet).genruntimeconfig.cache
+C:\Users\IRFAN\source\repos\ConsoleApp3 (Excel Sheet)\obj\Debug\net6.0\ref\ConsoleApp3 (Excel Sheet).dll

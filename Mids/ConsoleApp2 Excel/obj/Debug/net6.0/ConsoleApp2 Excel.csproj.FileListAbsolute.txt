@@ -1,0 +1,5 @@
+C:\Users\IRFAN\source\repos\ConsoleApp2 Excel\obj\Debug\net6.0\ConsoleApp2 Excel.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\ConsoleApp2 Excel\obj\Debug\net6.0\ConsoleApp2 Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\ConsoleApp2 Excel\obj\Debug\net6.0\ConsoleApp2 Excel.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\ConsoleApp2 Excel\obj\Debug\net6.0\ConsoleApp2 Excel.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\ConsoleApp2 Excel\obj\Debug\net6.0\ConsoleApp2 Excel.csproj.CoreCompileInputs.cache

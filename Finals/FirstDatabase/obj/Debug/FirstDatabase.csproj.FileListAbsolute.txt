@@ -1,0 +1,13 @@
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\bin\Debug\Database1.mdf
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\bin\Debug\Database1_log.ldf
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\bin\Debug\FirstDatabase.exe.config
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\bin\Debug\FirstDatabase.exe
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\bin\Debug\FirstDatabase.pdb
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.Form1.resources
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.Properties.Resources.resources
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.exe
+C:\Users\IRFAN\source\repos\Finals\FirstDatabase\obj\Debug\FirstDatabase.pdb

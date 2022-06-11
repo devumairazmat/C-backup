@@ -1,0 +1,11 @@
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture Viewer.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\IRFAN\source\repos\Mids\Picture Viewer\obj\Debug\Picture Viewer.pdb

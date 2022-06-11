@@ -1,0 +1,15 @@
+C:\Users\IRFAN\source\repos\File handling\bin\Debug\net6.0\File handling.exe
+C:\Users\IRFAN\source\repos\File handling\bin\Debug\net6.0\File handling.deps.json
+C:\Users\IRFAN\source\repos\File handling\bin\Debug\net6.0\File handling.runtimeconfig.json
+C:\Users\IRFAN\source\repos\File handling\bin\Debug\net6.0\File handling.dll
+C:\Users\IRFAN\source\repos\File handling\bin\Debug\net6.0\File handling.pdb
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.dll
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\refint\File handling.dll
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.pdb
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\File handling.genruntimeconfig.cache
+C:\Users\IRFAN\source\repos\File handling\obj\Debug\net6.0\ref\File handling.dll

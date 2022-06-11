@@ -1,0 +1,11 @@
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\bin\Debug\checkboxes adn radios mids.exe.config
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\bin\Debug\checkboxes adn radios mids.exe
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\bin\Debug\checkboxes adn radios mids.pdb
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes adn radios mids.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes adn radios mids.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes_adn_radios_mids.Form1.resources
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes_adn_radios_mids.Properties.Resources.resources
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes adn radios mids.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes adn radios mids.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes adn radios mids.exe
+C:\Users\IRFAN\source\repos\checkboxes adn radios mids\obj\Debug\checkboxes adn radios mids.pdb

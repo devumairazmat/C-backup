@@ -1,0 +1,11 @@
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids window form app.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids window form app.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids_window_form_app.Form1.resources
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids_window_form_app.Properties.Resources.resources
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids window form app.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids window form app.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\mids window form app\bin\Debug\mids window form app.exe.config
+C:\Users\IRFAN\source\repos\mids window form app\bin\Debug\mids window form app.exe
+C:\Users\IRFAN\source\repos\mids window form app\bin\Debug\mids window form app.pdb
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids window form app.exe
+C:\Users\IRFAN\source\repos\mids window form app\obj\Debug\mids window form app.pdb

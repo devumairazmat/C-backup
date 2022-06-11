@@ -1,0 +1,17 @@
+C:\Users\IRFAN\source\repos\Ammad\bin\Debug\net6.0-windows\Ammad.exe
+C:\Users\IRFAN\source\repos\Ammad\bin\Debug\net6.0-windows\Ammad.deps.json
+C:\Users\IRFAN\source\repos\Ammad\bin\Debug\net6.0-windows\Ammad.runtimeconfig.json
+C:\Users\IRFAN\source\repos\Ammad\bin\Debug\net6.0-windows\Ammad.dll
+C:\Users\IRFAN\source\repos\Ammad\bin\Debug\net6.0-windows\Ammad.pdb
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.csproj.AssemblyReference.cache
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.Form1.resources
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.csproj.GenerateResource.cache
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.AssemblyInfoInputs.cache
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.AssemblyInfo.cs
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.csproj.CoreCompileInputs.cache
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.dll
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\refint\Ammad.dll
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.pdb
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\Ammad.genruntimeconfig.cache
+C:\Users\IRFAN\source\repos\Ammad\obj\Debug\net6.0-windows\ref\Ammad.dll
